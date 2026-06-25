@@ -1,0 +1,1 @@
+//Props are used to share data between different components.

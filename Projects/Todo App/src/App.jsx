@@ -10,8 +10,8 @@ function App() {
     <Heading></Heading>
     <div class = "item-container">
       <UserInput></UserInput>
-      <Task1></Task1>
-      <Task2></Task2>
+      <Task1 name1 = "Buy Milk" date1 = "5/10/26"></Task1>
+      <Task2 name2 = "Go to college" date2 = "6/10/26"></Task2>
     </div>
    
     </center>
