@@ -1,0 +1,12 @@
+.buttons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.button {
+  height: 60px;
+  width: 60px;
+  font-size: 20px;
+  margin: 10px;
+}
