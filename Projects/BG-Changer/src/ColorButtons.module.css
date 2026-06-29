@@ -1,0 +1,79 @@
+.red {
+  background-color : red ;
+  color : black ;
+  border : 1px solid red;
+  width : 80px;
+  border-radius : 5px;
+  height : 30px;
+  margin-right : 15px;
+}
+
+.green {
+  background-color : green ;
+  color : black ;
+  border : 1px solid green;
+  width : 80px;
+  border-radius : 5px;
+  height : 30px;
+  margin-right : 15px;
+}
+
+.blue {
+  background-color : blue ;
+  color : black ;
+  border : 1px solid blue;
+  width : 80px;
+  border-radius : 5px;
+  height : 30px;
+  margin-right : 15px;
+}
+
+.pink {
+  background-color : pink ;
+  color : black ;
+  border : 1px solid pink;
+  width : 80px;
+  border-radius : 5px;
+  height : 30px;
+  margin-right : 15px;
+}
+
+.yellow {
+  background-color : yellow ;
+  color : black ;
+  border : 1px solid yellow;
+  width : 80px;
+  border-radius : 5px;
+  height : 30px;
+  margin-right : 15px;
+}
+
+.orange {
+  background-color : orange ;
+  color : black ;
+  border : 1px solid orange;
+  width : 80px;
+  border-radius : 5px;
+  height : 30px;
+  margin-right : 15px;
+}
+
+.cadetblue {
+  background-color : cadetblue ;
+  color : black ;
+  border : 1px solid cadetblue;
+  width : 80px;
+  border-radius : 5px;
+  height : 30px;
+  margin-right : 15px;
+}
+
+.slategray {
+  background-color : slategray ;
+  color : black ;
+  border : 1px solid slategray;
+  width : 80px;
+  border-radius : 5px;
+  height : 30px;
+  margin-right : 15px;
+}
