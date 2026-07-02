@@ -1,0 +1,79 @@
+body{
+
+  background-color: darkslategrey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+
+  width: 45vw;
+  height: 200px;
+  background-color: aliceblue;
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(43, 38, 71);
+  border-radius: 10px;
+  position: relative;
+}
+
+.input-box {
+
+  width: 500px;
+  height: 20px;
+  border-radius: 10px;
+  font-size: 20px;
+  padding: 10px;
+  
+}
+
+.title {
+
+  margin-bottom: 20px;
+  margin-top: -20px;
+  color: aliceblue;
+}
+
+.label {
+
+  color: aliceblue;
+}
+
+.length-slider {
+  position: absolute; 
+  bottom: 20px;       
+  left: 30px;         
+  color: white;       
+  display: flex;
+  align-items: center; 
+  gap: 10px;          
+}
+
+
+.input-wrapper {
+  position: relative; 
+  display: flex; 
+}
+
+.copy-btn {
+  position: absolute;
+  right: 5px;          
+  top: 50%;            
+  transform: translateY(-50%); 
+  padding: 6px 16px;
+  background-color: rgb(75, 130, 235); 
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  font-family: sans-serif;
+}
+
+.copy-btn:hover {
+  background-color: rgb(55, 110, 215);
+}
