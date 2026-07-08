@@ -1,0 +1,37 @@
+.parent {
+
+  border: 1px solid black;
+  height : 400px;
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: auto;
+  margin-top: 170px;
+}
+
+.Button {
+
+  width: 200px;
+  height: 50px;
+  border-radius: 5px;
+}
+
+.Changer {
+
+  height: 50px;
+  width:70px;
+  margin-top: 50px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.restore {
+
+  height: 50px;
+  width: 70px;
+  margin-top: 50px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
